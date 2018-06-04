@@ -1,0 +1,19 @@
+﻿生成启动时间为 2017/10/10 17:45:02。
+     1>项目“E:\Reconstuction3d\Reconstuction3d\Reconstuction3d.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Microsoft Visual Studio 2013\VC\bin\x86_amd64\CL.exe /c /I"F:\OpenCVLatest\ceres\suitesparse-metis-for-windows-1.3.0\build\SuiteSparse\"F:\OpenCVLatest\ceres\suitesparse-metis-for-windows-1.3.0\build\SuiteSparse\"" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /FR"x64\Release\\" /Gd /TP /errorReport:prompt Reconstuction3d.cpp
+         Reconstuction3d.cpp
+       Link:
+         F:\Microsoft Visual Studio 2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Reconstuction3d\x64\Release\Reconstuction3d.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"F:\OpenCVLatest\ceres\suitesparse-metis-for-windows-1.3.0\build\lib\Release\"F:\OpenCVLatest\ceres\suitesparse-metis-for-windows-1.3.0\build\lib\Release\"" opencv_calib3d310.lib opencv_ccalib310.lib opencv_core310.lib opencv_datasets310.lib opencv_dnn310.lib opencv_dpm310.lib opencv_face310.lib opencv_features2d310.lib opencv_flann310.lib opencv_fuzzy310.lib opencv_highgui310.lib opencv_imgcodecs310.lib opencv_imgproc310.lib opencv_line_descriptor310.lib opencv_ml310.lib opencv_optflow310.lib opencv_photo310.lib opencv_plot310.lib opencv_reg310.lib opencv_rgbd310.lib opencv_saliency310.lib opencv_shape310.lib opencv_stereo310.lib opencv_stitching310.lib opencv_structured_light310.lib opencv_superres310.lib opencv_surface_matching310.lib opencv_text310.lib opencv_tracking310.lib opencv_ts310.lib opencv_video310.lib opencv_videoio310.lib opencv_videostab310.lib opencv_xfeatures2d310.lib opencv_ximgproc310.lib opencv_xobjdetect310.lib opencv_xphoto310.lib libgflags.lib libglog.lib ceres.lib libamd.lib libccolamd.lib libcholmod.lib libcolamd.lib libspqr.lib suitesparseconfig.lib libcxsparse.lib libcamd.lib "F:\OpenCVLatest\ceres\suitesparse-metis-for-windows-1.3.0\lapack_windows\x64\libblas.lib" "F:\OpenCVLatest\ceres\suitesparse-metis-for-windows-1.3.0\lapack_windows\x64\liblapack.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /DEBUG /PDB:"E:\Reconstuction3d\x64\Release\Reconstuction3d.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Reconstuction3d\x64\Release\Reconstuction3d.lib" /MACHINE:X64 x64\Release\cvFuncs.obj
+         x64\Release\glFuncs.obj
+         x64\Release\Reconstuction3d.obj
+         正在生成代码
+         已完成代码的生成
+         Reconstuction3d.vcxproj -> E:\Reconstuction3d\x64\Release\Reconstuction3d.exe
+       BscMake:
+         F:\Microsoft Visual Studio 2013\VC\bin\bscmake.exe /nologo /o"E:\Reconstuction3d\x64\Release\Reconstuction3d.bsc" /n x64\Release\cvFuncs.sbr x64\Release\glFuncs.sbr x64\Release\Reconstuction3d.sbr
+     1>已完成生成项目“E:\Reconstuction3d\Reconstuction3d\Reconstuction3d.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:01:14.64
